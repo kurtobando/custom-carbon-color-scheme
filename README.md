@@ -2,7 +2,7 @@
 
 This is a custom color scheme [Carbon Theme](https://plugins.jetbrains.com/plugin/12280-carbon), with some changes to make it more readable.
 
-# Screenshots
+## Screenshots
 Here are screenshots from Laravel Starter kit.
 
 ![package.json](https://raw.githubusercontent.com/kurtobando/custom-carbon-color-scheme/master/screenshots/Screenshot%202023-05-19%20at%2011.21.36%20AM.png)
@@ -25,5 +25,5 @@ Here are screenshots from Laravel Starter kit.
 
 ![unit-test.php](https://raw.githubusercontent.com/kurtobando/custom-carbon-color-scheme/master/screenshots/Screenshot%202023-05-19%20at%2011.28.03%20AM.png)
 
-# How to use?
+## Usage
 It works best if you install [Carbon theme](https://plugins.jetbrains.com/plugin/12280-carbon) first, then import this color scheme. [How to import color scheme in Phpstorm](https://www.jetbrains.com/help/phpstorm/settings-colors-and-fonts.html)
