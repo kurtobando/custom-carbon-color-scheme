@@ -1,16 +1,24 @@
 <scheme name="Custom Carbon" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2024-01-16T12:29:15</property>
+    <property name="created">2024-02-14T10:54:33</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2023.3.2.0.0</property>
-    <property name="modified">2024-01-16T12:29:28</property>
+    <property name="ideVersion">2023.3.3.0.0</property>
+    <property name="modified">2024-02-14T10:54:43</property>
     <property name="originalScheme">Custom Carbon</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="SF Mono" />
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="SF Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Hack Nerd Font Mono" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Hack" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="51966b" />
     <option name="CARET_ROW_COLOR" value="1e2a3e" />
@@ -232,6 +240,7 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
+        <option name="FOREGROUND" value="db6e89" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -495,6 +504,7 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="db6e89" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -538,6 +548,7 @@
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="db6e89" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -570,7 +581,7 @@
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="" />
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5d6976" />
+        <option name="FOREGROUND" value="db6e89" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
